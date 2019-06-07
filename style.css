@@ -66,18 +66,18 @@ li{
   color:firebrick;
 }
 
-a:hover{
-  background-color:yellow;
-}
-
 a:link{
   color:blue;
 }
 
-a:active{
-  color:red;
-}
-
 a:visited{
   color:purple;
+}
+
+a:hover{
+  background-color:yellow;
+}
+
+a:active{
+  color:red;
 }
